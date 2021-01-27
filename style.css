@@ -1,0 +1,17 @@
+bаdy {
+    background-color: #00c2ec;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+nav {
+    background-color: #ececec;
+}
+main {
+    bakcground-color: #ffffff;
+}
+h1 {
+    color:red;
+}
